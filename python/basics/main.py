@@ -28,7 +28,6 @@ print(S.replace('String','Cadena'))
 print(S.upper())
 print(S.isalnum())
 
-
 vlPipeVar = 'a|b|c|d|e'
 
 

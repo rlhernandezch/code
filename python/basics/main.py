@@ -30,5 +30,3 @@ print(S.isalnum())
 
 vlPipeVar = 'a|b|c|d|e'
 
-
-

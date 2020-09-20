@@ -5,7 +5,6 @@ import random
 myval=random.choice([1,2,3,4])
 print(myval)
 
-
 S ='123456789'
 #strings manipulation
 vlStrLengh=len(S)

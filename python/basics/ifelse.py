@@ -26,3 +26,8 @@ while run:
         current += 1
 
 
+if math.isclose(math.sqrt(2)**2,2, rel_tol=1e-09) == True:
+    print("Se aproxima")
+else:
+    print("No se aproxima")
+    

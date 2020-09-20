@@ -1,0 +1,5 @@
+#to instal cx_oracle:
+
+sudo pip install --upgrade pip 
+sudo pip install cx_oracle
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 1

@@ -5,8 +5,7 @@
 #B,D,F,H: Blancas para Non
 #B,D,F,H: Negras para Par
 
-
-def fn_color_casilla(numero,letra):
+def fn_switch(x):
     switch = {
         "A":1,
         "B":2,
@@ -17,7 +16,11 @@ def fn_color_casilla(numero,letra):
         "G":7,
         "H":8,
     }
-    vlNumLetra= switch.get(letra)
+    return (switch.get(x) )
+
+def fn_color_casilla(numero,letra):
+
+    vlNumLetra= fn_switch(letra)
     
     if (vlNumLetra%2 == 0):
         if (numero%2 == 0):
@@ -29,7 +32,6 @@ def fn_color_casilla(numero,letra):
             print("BLANCA")
         else:
             print("NEGRA")
-
 
 fn_color_casilla(1,"A")
         

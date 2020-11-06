@@ -1,0 +1,21 @@
+total 76K
+-rw-rw-rw-  1 tr011 tr011  159 ago 10 02:18 python_install
+drwxrwxrwx  2 tr011 tr011 4.0K ago 29 18:53 cx_oracle
+drwxrwxrwx  2 tr011 tr011 4.0K ago 29 18:53 pep
+drwxrwxr-x  2 tr011 tr011 4.0K sep 20 01:29 python_est_desc
+drwxrwxr-x  2 tr011 tr011 4.0K oct 16 02:04 basics
+drwxrwxr-x  2 tr011 tr011 4.0K oct 23 20:13 numpy
+drwxrwxr-x  2 tr011 tr011 4.0K oct 24 10:26 matplotlib
+drwxrwxr-x  2 tr011 tr011 4.0K oct 24 20:57 pygame
+-rw-rw-r--  1 tr011 tr011  379 oct 25 21:27 time.py
+drwxrwxr-x  3 tr011 tr011 4.0K oct 25 22:04 modules
+drwxrwxr-x  4 tr011 tr011 4.0K oct 25 22:32 ..
+drwxrwxr-x  4 tr011 tr011 4.0K oct 25 23:33 files
+-rw-rw-r--  1 tr011 tr011  409 nov  1 19:26 pyTurtle.py
+-rw-rw-r--  1 tr011 tr011 1.1K nov  1 19:31 pyTurtle2.py
+drwxrwxrwx  3 tr011 tr011 4.0K nov  3 23:54 attack
+drwxrwxr-x  3 tr011 tr011 4.0K nov  4 00:02 reloj
+drwxrwxr-x 14 tr011 tr011 4.0K nov  4 00:49 .
+drwxrwxr-x  2 tr011 tr011 4.0K nov  4 00:52 __pycache__
+-rw-rw-r--  1 tr011 tr011  258 nov  4 00:52 simplejson.py
+-rw-rw-r--  1 tr011 tr011    0 nov  4 00:53 mydummy.txt

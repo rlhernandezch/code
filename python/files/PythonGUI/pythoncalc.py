@@ -6,7 +6,7 @@ from tkinter import messagebox
 top = Tk()
 top.geometry("250x250+10+10")
 
-def doMaths(vl1=E2.text,vl2=E3.text):
+def doMaths(vl1=1,vl2=3):
     messagebox.showinfo("Say hello", str(int(vl1)+int(vl2)) )
 
 
